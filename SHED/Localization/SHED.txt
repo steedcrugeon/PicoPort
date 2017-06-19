@@ -14,7 +14,7 @@ Localization
 	}
 	es-es
 	{
-	// --- SHED agency ---
+		// --- SHED agency ---
 
 		#autoLOC_SHED_000 = Sphero-Hedron Engineering Dynamics
 		#autoLOC_SHED_001 = A la vanguardia de las instalaciones de almacenamiento al aire libre multifacéticas y livianas, Sphero-Hedron Engineering Dynamics utiliza ahora su técnica de construcción patentada "Ply-n-Pine" en el mercado emergente fuera del mercado.
