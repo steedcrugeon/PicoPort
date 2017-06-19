@@ -1,0 +1,28 @@
+Localization
+{
+	en-us
+	{
+		// --- SHED agency ---
+
+		#autoLOC_SHED_000 = Sphero-Hedron Engineering Dynamics
+		#autoLOC_SHED_001 = At the cutting edge of multifaceted, lightweight outdoor storage facilities, Sphero-Hedron Engineering Dynamics are now using their patented 'Ply-n-Pine' construction technique in the emerging off-world market.
+
+		// --- SHED WORX Agency ---
+
+		#autoLOC_SHED_002 = SHED Wacky Orbital Research eXperiments
+		#autoLOC_SHED_003 = After nearly bankrupting Sphero-Hedron Engineering Dynamics, the 'WORX' department was seen as a big enough risk to warrant splitting it off as it's own company. Although the finance team didn't think they would last this long.
+	}
+	es-es
+	{
+		// --- SHED agency ---
+
+		#autoLOC_SHED_000 = Sphero-Hedron Engineering Dynamics
+		#autoLOC_SHED_001 = A la vanguardia de las instalaciones de almacenamiento al aire libre multifacéticas y livianas, Sphero-Hedron Engineering Dynamics utiliza ahora su técnica de construcción patentada "Ply-n-Pine" en el mercado emergente fuera del mercado.
+
+		// --- SHED WORX Agency ---
+
+		#autoLOC_SHED_002 = SHED Wacky Orbital Research eXperiments
+		#autoLOC_SHED_003 = Después de casi bancarrota Sphero-Hedron Engineering Dynamics, el departamento de 'WORX' fue visto como un riesgo lo suficientemente grande como para justificar su separación como su propia compañía. Aunque el equipo de finanzas no pensaba que duraría.
+	}
+	
+}
