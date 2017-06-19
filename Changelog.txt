@@ -1,0 +1,10 @@
+Version 0.1.3
+
+Updates:
+- Made compatible for KSP 1.3 Localization
+- Added New 'Normal' Textures
+
+Fixes:
+- Agency/Agencies issues corrected
+
+Initial Release Version 0.1.2
